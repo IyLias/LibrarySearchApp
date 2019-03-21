@@ -1,4 +1,3 @@
-package com.javaswing.tutorial;
 
 import java.io.IOException;
 import java.net.URL;
