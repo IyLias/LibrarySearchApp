@@ -17,6 +17,8 @@ Makes an app for searching books in KWU library
 ***Step 2. show search book datas in app***
 
 - make proper layout for showing search book datas in one screen
+   
+  - apply scrollView to show many book datas in one screen
 
 - If I click book image or book, then move to another screen and show detail of that book
 
