@@ -10,6 +10,14 @@ Makes an app for searching books in KWU library
 
 - To parse html datas in kwu_library web site, organize the structure of web site
 
+  **While parsing book datas, I have some problems**
+  
+  - I confirmed parsing book datas from kwu web site, but unimportant html tags are also parsed together
+  
+    how to extract them?
+    
+  
+
 - revise bookInfoParse java file for corresponding this web site
 
 - revise mainActivity file for corresponding this web site
